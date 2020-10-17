@@ -1,4 +1,4 @@
-package com.wall.repository;
+package com.walls.repository;
 
 import java.util.List;
 

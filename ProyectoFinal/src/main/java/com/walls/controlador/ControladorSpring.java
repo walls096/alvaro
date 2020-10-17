@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.wall.repository.Sentencias;
+import com.walls.repository.Sentencias;
 
 
 //anotacion de spring indica que esta clase es un controlador 

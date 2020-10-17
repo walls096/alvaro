@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
-<%@page import="com.wall.repository.Sentencias" %>
+<%@page import="com.walls.repository.Sentencias" %>
 <%@page import="java.util.List" %>
 <%@page import="com.walls.entidades.Clinica" %>
 
