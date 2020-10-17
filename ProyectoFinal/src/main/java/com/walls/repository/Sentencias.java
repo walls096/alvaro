@@ -17,7 +17,11 @@ public class Sentencias {
 	//Comprueba que los datos introducidos en el login aparecen en la base de datos.
 	public static boolean CompruebaLogin(String mail){
 		
+		//abre la sesion con hibernate
 		Session session = HibernateUtils.getSessionFactory().openSession();
+		
+		//recupera la sesion actual
+//		this.sesion = HibernateUtil.getSessionFactory().getCurrentSession();
 		
 		try {
 					
