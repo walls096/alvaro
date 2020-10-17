@@ -9,9 +9,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Logeate para entrar</title>
-        <link rel="stylesheet" href="../../css/index.css">
-       	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <title>Login</title>
+        
+		
+		<link  rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/static/css/bootstrap.min.css"/>
+		<link  rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/static/css/index.css"/>
        	
     </head>
     <body>

@@ -17,7 +17,7 @@ public class ControladorSpring {
 
     @RequestMapping(value="/")
     public String index() {
-        return "bienvenido";
+        return "panelPrincipal";
     }
     
     
